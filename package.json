@@ -1,0 +1,13 @@
+{
+  "name": "AmeenInt",
+  "version": "1.0.0",
+  "description": "A WhatsApp bot using whiskeysocket/bailys",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@whiskeysocket/baileys": "^7.1.0",  // Replace with the latest version
+    "@hapi/boom": "^9.1.4"  // Replace with the latest version
+  }
+}
